@@ -4,7 +4,7 @@ Perfil
 Olá! Eu sou Pedro
 
 Estudante de **Análise e Desenvolvimento de Sistemas**
-Interessado em programação, tecnologia e desenvolvimento de sistemas
+Interessado em programação, tecnologia e desenvolvimento de sistemas.
 
 # Sobre mim
 
